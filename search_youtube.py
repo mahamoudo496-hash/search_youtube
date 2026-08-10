@@ -4,7 +4,7 @@
 import sys
 import io
 import json
-from youtube_search import YoutubeSearch
+#from youtube_search import YoutubeSearch
 
 # Force UTF-8 encoding for stdout/stderr
 if sys.stdout.encoding != 'utf-8':
